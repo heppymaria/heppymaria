@@ -18,5 +18,3 @@ About Me:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heppymaria)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heppymaria&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/github-stats/?username=heppymaria&theme=gradient" />
